@@ -56,4 +56,5 @@ Open the file FructusUI.xcodeproj
 
 <!-- CONTACT -->
 ## Contact
-![Simulator Screenshot - iPhone 15 Pro - 2023-11-06 at 20 05 38](https://github.com/Dwashi2/FructusUI/assets/67284604/9124cc44-4ca0-4cd2-b4f7-b3c9ecb5947c)
+
+danielvertigo@hotmail.com
