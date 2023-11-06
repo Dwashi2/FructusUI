@@ -57,4 +57,7 @@ Open the file FructusUI.xcodeproj
 <!-- CONTACT -->
 ## Contact
 
-danielvertigo@hotmail.com
+
+Daniel Washington Ignacio - danielvertigo@hotmail.com
+
+Click to access my [LinkedIn](https://www.linkedin.com/in/daniel-washington-ignacio-ab439b164/)
