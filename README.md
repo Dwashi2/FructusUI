@@ -31,8 +31,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Dwashi2/PinchUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-30%20at%2020.40.16.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/PinchUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-30%20at%2020.40.31.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/FructusUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-06%20at%2020.06.08.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/FructusUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-06%20at%2020.05.49.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/FructusUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-06%20at%2020.05.33.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/FructusUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-06%20at%2020.05.55.png" width="248">
 </p>
  
  
@@ -44,7 +46,7 @@ It's a simple app, only to study SwiftUI
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file PinchUI.xcodeproj
+Open the file FructusUI.xcodeproj
 
 ### Prerequisites
 
